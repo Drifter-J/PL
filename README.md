@@ -1,2 +1,3 @@
 # PL
-Programming Language Exercises
+Programming Language Exercises  
+2014 2nd Semester @ Korea University 
